@@ -1,6 +1,12 @@
-# Data_Engineering_and_ML
+# Data_Projects
 
-## For all Data Engineering, Big Data, and Machine Learning Projects.
+## For all Things Data
+* Management
+* Engineering
+* Big Data
+* Machine Learning
+
+### Using Python to interact with SQL projects
 
 This also includes projects with SQL, APIs, Cloud Computing, and all things data related
 
